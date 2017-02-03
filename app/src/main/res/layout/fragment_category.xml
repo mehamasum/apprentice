@@ -64,7 +64,7 @@
         android:visibility="gone"
         android:background="@color/protector" />
 
-    <github.yaa110.memento.widget.Fab
+    <com.batfia.apprentice.memento.widget.Fab
         android:id="@+id/fab_type"
         android:layout_width="@dimen/fab_mini"
         android:layout_height="@dimen/fab_mini"
@@ -81,10 +81,10 @@
         android:layout_marginRight="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="140dp"
-        app:layout_behavior="github.yaa110.memento.inner.FabBehavior"
+        app:layout_behavior="com.batfia.apprentice.memento.inner.FabBehavior"
         tools:ignore="MissingPrefix,UnusedAttribute"/>
 
-    <github.yaa110.memento.widget.Fab
+    <com.batfia.apprentice.memento.widget.Fab
         android:id="@+id/fab_drawing"
         android:layout_width="@dimen/fab_mini"
         android:layout_height="@dimen/fab_mini"
@@ -101,10 +101,10 @@
         android:layout_marginRight="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="88dp"
-        app:layout_behavior="github.yaa110.memento.inner.FabBehavior"
+        app:layout_behavior="com.batfia.apprentice.memento.inner.FabBehavior"
         tools:ignore="MissingPrefix,UnusedAttribute"/>
 
-    <github.yaa110.memento.widget.Fab
+    <com.batfia.apprentice.memento.widget.Fab
         android:id="@+id/fab"
         android:layout_width="@dimen/fab"
         android:layout_height="@dimen/fab"
@@ -120,7 +120,7 @@
         android:layout_marginRight="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
-        app:layout_behavior="github.yaa110.memento.inner.FabBehavior"
+        app:layout_behavior="com.batfia.apprentice.memento.inner.FabBehavior"
         tools:ignore="MissingPrefix,UnusedAttribute"/>
 
 </android.support.design.widget.CoordinatorLayout>

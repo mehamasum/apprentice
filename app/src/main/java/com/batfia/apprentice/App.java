@@ -8,7 +8,7 @@ import android.content.SharedPreferences;
 import android.graphics.Point;
 import android.view.WindowManager;
 
-import github.yaa110.memento.db.Controller;
+import com.batfia.apprentice.memento.db.Controller;
 
 public class App extends Application {
 	public static App instance;

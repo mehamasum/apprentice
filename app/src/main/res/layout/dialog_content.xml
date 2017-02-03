@@ -23,7 +23,7 @@
 
     <include layout="@layout/loading" />
 
-    <github.yaa110.memento.widget.MaxHeightScrollView
+    <com.batfia.apprentice.memento.widget.MaxHeightScrollView
         android:id="@+id/content_holder"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

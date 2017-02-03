@@ -22,7 +22,7 @@
 
     <include layout="@layout/splitter" />
 
-    <github.yaa110.memento.widget.FixedHeightRecyclerView
+    <com.batfia.apprentice.memento.widget.FixedHeightRecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
         android:layout_height="1dp"

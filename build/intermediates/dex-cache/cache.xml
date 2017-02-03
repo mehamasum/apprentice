@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="e702a70a74a858e239d13adf3843aa6806baf324">
+        sha1="938fefad728ef61c351058f9f4d80997d51d9afb">
         <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc86a8693bc41685a960002bf88d06c91774a4f6\classes.dex" />
     </item>
     <item

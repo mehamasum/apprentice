@@ -11,9 +11,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.example.avjindersinghsekhon.minimaltodo.TodosMainActivity;
+import com.batfia.apprentice.todo.TodosMainActivity;
 
-import github.yaa110.memento.activity.MementoMainActivity;
+import com.batfia.apprentice.memento.activity.MementoMainActivity;
 
 public class MainActivity extends AppCompatActivity {
 
