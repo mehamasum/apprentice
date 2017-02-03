@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/common_menu"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title=""
+            app:actionLayout="@layout/nav_item_home"
+            />
+
+
+        <!--<item
+            android:id="@+id/nav_report"
+            android:title=""
+            app:actionLayout="@layout/nav_item_report"
+            />-->
+
+        <item
+            android:id="@+id/nav_roadpals"
+            android:title=""
+            app:actionLayout="@layout/nav_item_roadpals"
+            />
+
+        <item
+            android:id="@+id/nav_real_time"
+            android:title=""
+            app:actionLayout="@layout/nav_item_safe"/>
+
+        <item
+            android:id="@+id/nav_last_seen"
+            android:title=""
+            app:actionLayout="@layout/nav_item_locator"/>
+
+
+
+    </group>
+
+
+    <group android:id="@+id/grp2"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_note_books"
+            android:title=""
+            app:actionLayout="@layout/nav_item_note_books"
+            />
+
+
+        <item
+            android:id="@+id/nav_todos"
+            android:title=""
+            app:actionLayout="@layout/nav_item_todos"/>
+
+
+
+
+    </group>
+
+
+    <group android:id="@+id/grp3"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_account"
+            android:title=""
+            app:actionLayout="@layout/nav_item_account"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:title=""
+            app:actionLayout="@layout/nav_item_about"/>
+
+
+    </group>
+
+</menu>
