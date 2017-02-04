@@ -9,6 +9,7 @@ import android.graphics.Point;
 import android.view.WindowManager;
 
 import com.batfia.apprentice.memento.db.Controller;
+import com.beardedhen.androidbootstrap.TypefaceProvider;
 
 public class App extends Application {
 	public static App instance;
@@ -33,6 +34,9 @@ public class App extends Application {
 	@Override
 	public void onCreate() {
 		super.onCreate();
+
+		// bootstarp
+		TypefaceProvider.registerDefaultIconSets();
 
 		// Get preferences
 		prefs = getSharedPreferences(getPackageName(), MODE_PRIVATE);

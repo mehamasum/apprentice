@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/listItemLinearLayout"
+    android:layout_marginBottom="1dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:src="@drawable/ic_notebook"
+        android:id="@+id/toDoListItemColorImageView"
+        android:layout_gravity="top"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_width="45dp"
+        android:layout_height="45dp"/>
+
+
+    <RelativeLayout
+        android:layout_marginLeft="16dp"
+        android:layout_weight="5"
+        android:layout_width="0dp"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_marginTop="16dp"
+            android:layout_alignParentTop="true"
+            tools:ignore="MissingPrefix"
+            android:id="@+id/toDoListItemTextview"
+            android:lines="1"
+            android:gravity="start|bottom"
+            android:textColor="@color/textAshDark"
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:text="Mehedi Hasan Masum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:layout_below="@id/toDoListItemTextview"
+            android:id="@+id/todoListItemTimeTextView"
+            android:text="27 Sept 2015, 22:30"
+            android:textColor="?attr/colorAccent"
+            android:textSize="12sp"
+            android:gravity="start|center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/todoListItemTimeTextView"
+            android:id="@+id/todoListItemTimeTextView2"
+            android:text="This can be a really long long long long post. This can be a really long long long long post.This can be a really long long long long post.This can be a really long long long long post.This can be a really long long long long post.This can be a really long long long long post.This can be a really long long long long post."
+            android:textSize="14sp"
+            android:gravity="start|center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/todoListItemTimeTextView2"
+            android:id="@+id/stats"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_below="@id/todoListItemTimeTextView2"
+                android:id="@+id/todoListItemTimeTextView3"
+                android:text="13 Points"
+                android:textColor="?attr/colorAccent"
+                android:textSize="12sp"
+                android:gravity="start|center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/todoListItemTimeTextView2"
+                android:id="@+id/todoListItemTimeTextView4"
+                android:text="30 Comments"
+                android:textColor="?attr/colorAccent"
+                android:textSize="12sp"
+                android:gravity="start|center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/stats"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:fontAwesomeIcon="fa_thumbs_up">
+            </com.beardedhen.androidbootstrap.BootstrapButton>
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:fontAwesomeIcon="fa_thumbs_down">
+            </com.beardedhen.androidbootstrap.BootstrapButton>
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                app:bootstrapBrand="info"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="Comment">
+            </com.beardedhen.androidbootstrap.BootstrapButton>
+
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                app:bootstrapBrand="success"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="Save">
+            </com.beardedhen.androidbootstrap.BootstrapButton>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

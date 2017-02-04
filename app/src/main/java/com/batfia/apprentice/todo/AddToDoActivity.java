@@ -92,7 +92,7 @@ public class AddToDoActivity extends AppCompatActivity implements  DatePickerDia
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_add_to_do);
         //Testing out a new layout
-        setContentView(R.layout.activity_todo_test);
+        setContentView(R.layout.activity_add_todo);
 
         //Show an X in place of <-
         final Drawable cross = getResources().getDrawable(R.drawable.ic_clear_white_24dp);

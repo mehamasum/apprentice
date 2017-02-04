@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 int id = item.getItemId();
 
                 if (id == R.id.nav_home) {
+                    startActivity(new Intent(MainActivity.this, TestActivity.class));
                 }
 
                 else if (id == R.id.nav_note_books) {
