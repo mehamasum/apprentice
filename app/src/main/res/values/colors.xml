@@ -3,10 +3,11 @@
 
     <color name="colorPrimary">#33ac71</color>
     <color name="colorPrimaryTransparent">#7333ac71</color>
-    <color name="colorPrimaryDark">#247950</color>
+    <color name="colorPrimaryDark">#2c9060</color>
     <color name="colorPrimaryLight">#4aef9f</color>
     <color name="colorAccent">#33ac71</color>
     <color name="transparent">#00000000</color>
+    <color name="uiBackground">#cfcfcf</color>
 
     <color name="red_primary">#D32F2F</color>
     <color name="red_secondary">#F44336</color>

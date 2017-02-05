@@ -11,6 +11,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import com.batfia.apprentice.classroom.ClassRoomActivity;
 import com.batfia.apprentice.todo.TodosMainActivity;
 
 import com.batfia.apprentice.memento.activity.MementoMainActivity;
@@ -56,8 +57,12 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(MenuItem item) {
                 int id = item.getItemId();
 
-                if (id == R.id.nav_home) {
-                    startActivity(new Intent(MainActivity.this, TestActivity.class));
+                if (id == R.id.nav_class_forum) {
+                    startActivity(new Intent(MainActivity.this, ClassRoomActivity.class));
+                }
+
+                if (id == R.id.nav_qa_forum) {
+                    //startActivity(new Intent(MainActivity.this, TestActivity.class));
                 }
 
                 else if (id == R.id.nav_note_books) {
@@ -74,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        navigationView.getMenu().getItem(0).setChecked(true);
+        //navigationView.getMenu().getItem(0).setChecked(true);
         TextView nav_profile = (TextView) navigationView.getHeaderView(0).findViewById(R.id.nav_header_profile);
 
         nav_profile.setText("No email");

@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_697af49d7589530f89008e7814ddea0c61519ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -21,69 +30,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_506219193ceca275d7d466f4a73cf9a2d7c04b2b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_8551148906e5522bae5095b4b34b3dc377e8f61c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\jp.wasabeef\richeditor-android\1.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="92aa852032e97ccf6eb2a80151205ab578a7916f">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-richeditor-android-1.2.0_fb32eeaf9015b4f0939392ac0afa3a5fb8a73d49\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="a53e9b062c116dcf3d09c3f1267f28bec3375b00">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc86a8693bc41685a960002bf88d06c91774a4f6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.1.0_e375c02b5f7235a1545d9e4f585e3e5fab2620e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="f3c15dd877bfdfbbd71f0d2f4c5139b52fd04735">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wdullaer-materialdatetimepicker-1.5.1_0652fa2cf0830b179640f1d7d7a6b913c3a9e161\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d237556caead5b93d97e18a071059a2c0045978e">
-        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_697af49d7589530f89008e7814ddea0c61519ba8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -97,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="a044bc486c6ed9e06ae79b548fb97160b7528964">
+        sha1="f1a414f8f3a4991d9c227d220b7a9536a2ecfe51">
         <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d7a53f518817a8cb46f87865bf289bcdba521b3e\classes.dex" />
     </item>
     <item
@@ -117,6 +63,15 @@
         revision="24.0.0"
         sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
         <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.0_f37a407ffffda015bf758aca4049a87bab3d3e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_506219193ceca275d7d466f4a73cf9a2d7c04b2b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,6 +111,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_8551148906e5522bae5095b4b34b3dc377e8f61c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.beardedhen\androidbootstrap\2.3.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -171,6 +135,51 @@
         revision="24.0.0"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
         <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_56ab421026f96a4be4f99fa4dbeed24a3be0646d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.victor\lib\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8b534207608aa1c205263d7426e634872ae34f08">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.victor-lib-1.0.4_5e7f5933d51e28855c8c83d725fca0d01e86554e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\jp.wasabeef\richeditor-android\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="92aa852032e97ccf6eb2a80151205ab578a7916f">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-richeditor-android-1.2.0_fb32eeaf9015b4f0939392ac0afa3a5fb8a73d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dffbc63165d2ab58f3b597921541a9eaf73d2fe1">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc86a8693bc41685a960002bf88d06c91774a4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.1.0_e375c02b5f7235a1545d9e4f585e3e5fab2620e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3c15dd877bfdfbbd71f0d2f4c5139b52fd04735">
+        <dex dex="C:\Users\mehamasum\Code\Git\VSTS\Apprentice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wdullaer-materialdatetimepicker-1.5.1_0652fa2cf0830b179640f1d7d7a6b913c3a9e161\classes.dex" />
     </item>
     <item
         is-multidex="true"

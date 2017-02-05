@@ -41,4 +41,5 @@ dependencies {
     compile 'com.wdullaer:materialdatetimepicker:1.5.1'
     compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
     compile 'com.github.ganfra:material-spinner:1.1.0'
+    compile 'com.victor:lib:1.0.4'
 }

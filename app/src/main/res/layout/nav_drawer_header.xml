@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:text="Profile"
             android:fontFamily="sans-serif-condensed"
-            android:textColor="@color/white"
+            android:textColor="#eeff41"
             android:textSize="15sp"
             android:id="@+id/profileStaticTextView"
             android:layout_marginTop="25dp"

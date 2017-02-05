@@ -38,7 +38,7 @@
             android:name=".todo.TodosMainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".todo.AddToDoActivity"
             android:parentActivityName=".todo.TodosMainActivity"
@@ -50,7 +50,8 @@
         <service android:name=".todo.TodoNotificationService" />
         <service android:name=".todo.DeleteNotificationService" />
 
-        <activity android:name=".TestActivity"></activity>
+        <activity android:name=".TestActivity" />
+        <activity android:name=".classroom.ClassRoomActivity"></activity>
     </application>
 
 </manifest>

@@ -5,34 +5,34 @@
     <group
         android:id="@+id/common_menu"
         android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_home"
-            android:title=""
-            app:actionLayout="@layout/nav_item_home"
-            />
-
-
-        <!--<item
-            android:id="@+id/nav_report"
-            android:title=""
-            app:actionLayout="@layout/nav_item_report"
-            />-->
 
         <item
-            android:id="@+id/nav_roadpals"
+            android:id="@+id/nav_class_forum"
             android:title=""
-            app:actionLayout="@layout/nav_item_roadpals"
+            app:actionLayout="@layout/nav_item_classroom_forum"
             />
 
         <item
-            android:id="@+id/nav_real_time"
+            android:id="@+id/nav_qa_forum"
             android:title=""
-            app:actionLayout="@layout/nav_item_safe"/>
+            app:actionLayout="@layout/nav_item_qa_forum"
+            />
 
         <item
-            android:id="@+id/nav_last_seen"
+            android:id="@+id/nav_job_forum"
             android:title=""
-            app:actionLayout="@layout/nav_item_locator"/>
+            app:actionLayout="@layout/nav_item_job_forum"
+            />
+
+        <item
+            android:id="@+id/nav_tut_forum"
+            android:title=""
+            app:actionLayout="@layout/nav_item_tut_forum"/>
+
+        <item
+            android:id="@+id/nav_donation_forum"
+            android:title=""
+            app:actionLayout="@layout/nav_item_donation_forum"/>
 
 
 
